@@ -5,6 +5,7 @@
 - I am a tech and design enthusiast.
 - I have a keen interest in learning UI/UX Design and Development, Team and Product Management.
 - I am also an artist and work in water, ink and acrylic colors.
+- I have interest in animation and sketching.
 
 <h2>🛠️: Tech Stack</h2>
 
