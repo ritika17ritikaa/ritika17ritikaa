@@ -6,7 +6,7 @@
 - I have a keen interest in learning UI/UX Design and Development, Team and Product Management.
 - I am also an artist and work in water, ink and acrylic colors.
 - I have interest in animation and sketching.
-- Project : https://society-sphere.netlify.app/
+- Project that i made under Sabhya's Mentorship Programme: https://society-sphere.netlify.app/
 
 <h2>🛠️: Tech Stack</h2>
 
